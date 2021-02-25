@@ -1,0 +1,47 @@
+.rect1 {
+    float:left;
+    background-color: rgb(19, 124, 89);
+    width : 80%;
+    height: 100px;
+}
+.rect2 {
+    float :right;
+    background-color: rgb(31, 96, 182);
+    width : 20%;
+    height: 100px;
+}.rect3 {
+    float:left;
+    background-color: rgb(175, 17, 25);
+    width : 30%;
+    height: 200px;
+}.rect4 {
+    float:left;
+    background-color: rgb(223, 124, 31);
+    width : 35%;
+    height: 100px;
+}.rect5 {
+    float:right;
+    background-color: rgb(169, 182, 177);
+    width : 35%;
+    height: 100px;
+}.rect6 {
+    float:left;
+    background-color: rgb(236, 210, 62);
+    width :25%;
+    height: 100px;
+}.rect7 {
+    float:left;
+    background-color: rgb(83, 194, 157);
+    width : 25%;
+    height: 100px;
+}.rect8 {
+    float:right;
+    background-color: rgb(179, 84, 7);
+    width : 20%;
+    height: 100px;
+}.rect9 {
+    float:left;
+    background-color: rgb(44, 48, 65);
+    width : 100%;
+    height: 300px;
+}
